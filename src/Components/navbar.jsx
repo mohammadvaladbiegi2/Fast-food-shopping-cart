@@ -17,7 +17,7 @@ const Navbar = () => {
             <RiShoppingCartLine className="navbar-tool-icon" />
           </div>
         </a>
-        <p className="h3 mb-0 text-light">useContext & useReducer</p>
+        <p className="h3 mb-0 text-light">useContext</p>
       </div>
     </header>
   );
